@@ -8,7 +8,7 @@
 
 ## Grupo dos R's
 
-## Integrantes: <a href="">rafael budoya</a>, <a href="https://github.com/tyrant-reh">Renan Teixeira</a>, <a href="[https://www.linkedin.com/in/victorbarq/]">Rodrigo Kalil</a>, <a [href="https://www.linkedin.com/in/victorbarq](https://www.linkedin.com/in/rodrigo-kalil-878415228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="">rafael budoya</a>, <a href="https://github.com/tyrant-reh">Renan Teixeira</a>, <a href="[https://www.linkedin.com/in/victorbarq/]">Rodrigo Kalil</a>, <a )/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
@@ -20,11 +20,12 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Nosso projeto é uma mini-horta com sistema de irrigação automatizado onde, ela irá regar sua planta e utilizar da tecnologia um meio de cultivo em casa sem que necessite ir regando sua planta e deixa-la ao sol.
+Nosso propósito é que as pessoas possam fazer sua própia horta de forma sustentável e de baixo custo.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Meu projeto ajuda pessoas desfavorecidas a poderem criar e cultivar seus própios alimentos de forma sustentável, causando um impacto positivo ao meio ambiente.
 <br><br>
-May the force be with you!
+
 <br><br>
 
 ## 🛠 Estrutura de pastas
