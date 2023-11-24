@@ -8,7 +8,7 @@
 
 ## Grupo dos R's
 
-## Integrantes: <a href="https://www.linkedin.com/in/rafael-budoya/">Rafael budoya</a>, <a href="https://github.com/tyrant-reh">Renan Teixeira</a>, <a href="https://www.linkedin.com/in/rodrigo-kalil/">Rodrigo Kalil</a>, <a )/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/rafael-budoya/">Rafael budoya</a>, <a href="https://github.com/tyrant-reh">Renan Teixeira</a>, <a href="https://www.linkedin.com/in/rodrigo-kalil/">Rodrigo Kalil</a>, <a )/">Ryan de Oliveira</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
@@ -102,18 +102,18 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
+* 0.2.1 - 17/11/2023
+    * Primeiro código lançado
+    * TESTE : Teste de integração de HTML com ESP32
+* 0.2.0 - 19/11/2023
+    * MUDANÇA: Teste do código HTML`
+* 0.1.0 - 24/11/2023
     * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+    * MUDANÇA: Foi utilizado 'if`
+    * IMPLEMENTAÇÃO : ' Codigo de automação ',
+    * AJUSTES FINAIS..
+* 0.0.1 - 24/11/2022
+    * Trabalho concluido nos periodo de teste e pronto para ser apresentado !!
 
 ## 📋 Licença/License
 
@@ -122,8 +122,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://www.youtube.com/watch?v=dWM4p_KaTHY>
+2. <https://www.youtube.com/watch?v=FGrN8tdAhi8>
+
+
