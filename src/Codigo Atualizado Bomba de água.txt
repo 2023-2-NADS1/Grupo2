@@ -1,0 +1,58 @@
+#include <ESP8266WiFi.h>
+// Definição dos pinos
+const int sensorPin = A0;      // Pino analógico para o sensor de umidade do solo
+const int releLedPin = 5;     // Pino digital para o relé da lâmpada LED
+const int releBombaPin = 2;   // Pino digital para o relé da bomba submersa
+
+// Limiar de umidade para acionar a bomba de água
+//const int umidadeLimite = 500;
+
+void setup() {
+  Serial.begin(115200);  // Inicializa a comunicação serial para depuração
+  // Inicialização dos pinos
+  pinMode(sensorPin, INPUT);
+  pinMode(releLedPin, OUTPUT);
+  pinMode(releBombaPin, OUTPUT);
+
+  // Desligar inicialmente a lâmpada LED e a bomba
+  digitalWrite(releLedPin, LOW);
+  digitalWrite(releBombaPin, LOW);
+
+  // Conectar ao Wi-Fi
+  //conectarWiFi("SSID", "senha");
+}
+
+void loop() {
+  // Ler valor do sensor de umidade
+  int umidade = analogRead(sensorPin);
+
+  // Acender e apagar a lâmpada LED a cada 1 minuto
+  acenderApagarLED();
+  
+  Serial.println("sensor umidade" + String(umidade) + "");
+
+  // Verificar se o solo está seco
+  
+  if (umidade < 500 ) {
+    // Acionar a bomba de água
+    digitalWrite(releBombaPin, LOW);
+  Serial.println("Bomba de água acionada.");
+    delay(5000);
+  } else {
+    // Desligar a bomba de água
+    digitalWrite(releBombaPin, HIGH);
+  Serial.println("Bomba de água desligada.");
+  }
+
+  delay(1000);  // Aguardar 1 segundo antes de verificar novamente
+  
+}
+
+// Acende e apaga a lâmpada LED a cada 1 minuto
+void acenderApagarLED() {
+   digitalWrite(releLedPin, HIGH);
+  Serial.println("Lâmpada LED ligada.");
+  delay(10000); //1 hora  
+   digitalWrite(releLedPin, LOW);
+  Serial.println("Lâmpada LED apagada.");
+}
