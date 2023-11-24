@@ -8,7 +8,7 @@
 
 ## Grupo dos R's
 
-## Integrantes: <a href="">rafael budoya</a>, <a href="https://github.com/tyrant-reh">Renan Teixeira</a>, <a href="[https://www.linkedin.com/in/victorbarq/]">Rodrigo Kalil</a>, <a )/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/rafael-budoya/">Rafael budoya</a>, <a href="https://github.com/tyrant-reh">Renan Teixeira</a>, <a href="https://www.linkedin.com/in/rodrigo-kalil/">Rodrigo Kalil</a>, <a )/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
